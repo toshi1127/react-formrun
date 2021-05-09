@@ -8,7 +8,7 @@ Easy to use formrun with React Hooks.
 
 ```typescript
 import React from "react";
-import { useFormrun } from "../src";
+import { useFormrun } from "react-formrun";
 
 type Props = {
   data?: [];
